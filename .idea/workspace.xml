@@ -4,13 +4,7 @@
     <list default="true" id="7f55b0e2-efc4-457e-b2ce-2fd38b697c1c" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【京东】买糖果.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【京东】生日礼物.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingExercises/【位运算】二进制中1的个数.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingExercises/【数组】调整数组顺序使奇数位于偶数前面.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingExercises/【链表】反转链表.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingExercises/【链表】合并两个排序的链表.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingExercises/【链表】链表中倒数第k个结点.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ProgrammingExercises/【斐波那契】变态跳台阶.py" afterPath="$PROJECT_DIR$/ProgrammingExercises/【斐波那契】变态跳台阶.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -125,11 +119,6 @@
             <path>
               <item name="FindAJob" type="b2602c69:ProjectViewProjectNode" />
               <item name="FindAJob" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FindAJob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FindAJob" type="462c0819:PsiDirectoryNode" />
-              <item name="ProgrammingExercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -317,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521709443011</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="niuke">
+      <created>1521710881505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521710881505</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -376,7 +372,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20180221" />
     <MESSAGE value="[**]小赛的升级之路" />
-    <option name="LAST_COMMIT_MESSAGE" value="[**]小赛的升级之路" />
+    <MESSAGE value="niuke" />
+    <option name="LAST_COMMIT_MESSAGE" value="niuke" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
