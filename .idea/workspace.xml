@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f55b0e2-efc4-457e-b2ce-2fd38b697c1c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【京东】买糖果.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【京东】生日礼物.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/mytest.py" afterPath="$PROJECT_DIR$/mytest.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,12 +16,23 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/FindAJob$N.coverage" NAME="【斐波那契】斐波那契数列第N项 Coverage Results" MODIFIED="1520336432119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProgrammingExercises" />
-    <SUITE FILE_PATH="coverage/FindAJob$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1521709099126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FindAJob$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1521724946713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FindAJob$.coverage" NAME="【京东】生日礼物 Coverage Results" MODIFIED="1521612360705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CompanyProgramming" />
     <SUITE FILE_PATH="coverage/FindAJob$_python.coverage" NAME="排序实现-python Coverage Results" MODIFIED="1520332633501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="【美团】数字字符.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,7 +68,6 @@
         <option value="$PROJECT_DIR$/CompanyProgramming/【京东】生日礼物.py" />
         <option value="$PROJECT_DIR$/ProgrammingExercises/[]小赛的升级之路.py" />
         <option value="$PROJECT_DIR$/ProgrammingExercises/【**】小赛的升级之路.py" />
-        <option value="$PROJECT_DIR$/mytest.py" />
         <option value="$PROJECT_DIR$/ProgrammingExercises/【位运算】二进制中1的个数.py" />
         <option value="$PROJECT_DIR$/ProgrammingExercises/【斐波那契】变态跳台阶.py" />
         <option value="$PROJECT_DIR$/ProgrammingExercises/【数组】调整数组顺序使奇数位于偶数前面.py" />
@@ -64,6 +75,9 @@
         <option value="$PROJECT_DIR$/ProgrammingExercises/【链表】反转链表.py" />
         <option value="$PROJECT_DIR$/ProgrammingExercises/【链表】合并两个排序的链表.py" />
         <option value="$PROJECT_DIR$/ProgrammingExercises/【数组】差值最大最小对数.py" />
+        <option value="$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py" />
+        <option value="$PROJECT_DIR$/mytest.py" />
+        <option value="$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py" />
       </list>
     </option>
   </component>
@@ -119,6 +133,16 @@
             <path>
               <item name="FindAJob" type="b2602c69:ProjectViewProjectNode" />
               <item name="FindAJob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FindAJob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FindAJob" type="462c0819:PsiDirectoryNode" />
+              <item name="CompanyProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FindAJob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FindAJob" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -313,11 +337,19 @@
       <option name="project" value="LOCAL" />
       <updated>1521710881505</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jd">
+      <created>1521710927006</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521710927006</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="-4" width="1215" height="1028" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.50292826" order="0" side_tool="true" content_ui="tabs" />
@@ -325,7 +357,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30155212" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" x="0" y="260" width="1366" height="208" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26598465" sideWeight="0.49380806" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24978687" sideWeight="0.49380806" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -373,37 +405,16 @@
     <MESSAGE value="20180221" />
     <MESSAGE value="[**]小赛的升级之路" />
     <MESSAGE value="niuke" />
-    <option name="LAST_COMMIT_MESSAGE" value="niuke" />
+    <MESSAGE value="jd" />
+    <option name="LAST_COMMIT_MESSAGE" value="jd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】各排序对比.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序算法总结.md" />
-    <entry file="file://$PROJECT_DIR$/ProgrammingLanguage/python.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序实现-python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingExercises/test.py" />
-    <entry file="file://$PROJECT_DIR$/mytest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingExercises/【**】小赛的升级之路.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
@@ -516,18 +527,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【京东】买糖果.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-944">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CompanyProgramming/【京东】生日礼物.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】各排序对比.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序算法总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-5878">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingLanguage/python.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序实现-python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【京东】买糖果.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
