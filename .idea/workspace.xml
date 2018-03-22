@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f55b0e2-efc4-457e-b2ce-2fd38b697c1c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/mytest.py" afterPath="$PROJECT_DIR$/mytest.py" />
+      <change beforePath="$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py" afterPath="$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="【美团】数字字符.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="【美团】数字字符.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="【美团】字符串距离.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -344,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521710927006</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="【美团】数字字符">
+      <created>1521725694332</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521725694332</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -406,7 +421,8 @@
     <MESSAGE value="[**]小赛的升级之路" />
     <MESSAGE value="niuke" />
     <MESSAGE value="jd" />
-    <option name="LAST_COMMIT_MESSAGE" value="jd" />
+    <MESSAGE value="【美团】数字字符" />
+    <option name="LAST_COMMIT_MESSAGE" value="【美团】数字字符" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -585,23 +601,23 @@
     <entry file="file://$PROJECT_DIR$/mytest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
