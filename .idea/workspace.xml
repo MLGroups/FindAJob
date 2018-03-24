@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f55b0e2-efc4-457e-b2ce-2fd38b697c1c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【今日头条】在数组中找到差值为k的数字对去重后的个数.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【阿里巴巴】m种颜色把圆分n份.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/jrtt.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/mytest1.py" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="【今日头条】在数组中找到差值为k的数字对去重后的个数.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CompanyProgramming/【今日头条】在数组中找到差值为k的数字对去重后的个数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="522">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -397,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521725830134</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="【今日头条】在数组中找到差值为k的数字对去重后的个数.py">
+      <created>1521897154288</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1521897154288</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -461,7 +467,8 @@
     <MESSAGE value="jd" />
     <MESSAGE value="【美团】数字字符" />
     <MESSAGE value="【美团】字符串距离（？？？）" />
-    <option name="LAST_COMMIT_MESSAGE" value="【美团】字符串距离（？？？）" />
+    <MESSAGE value="【今日头条】在数组中找到差值为k的数字对去重后的个数.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="【今日头条】在数组中找到差值为k的数字对去重后的个数.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -714,8 +721,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CompanyProgramming/【今日头条】在数组中找到差值为k的数字对去重后的个数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="522">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
