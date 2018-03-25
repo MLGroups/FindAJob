@@ -4,7 +4,6 @@
     <list default="true" id="7f55b0e2-efc4-457e-b2ce-2fd38b697c1c" name="Default" comment="【今日头条】在数组中找到差值为k的数字对去重后的个数.py">
       <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/?【今日头条】打印666.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【TCL多媒体】Json解析.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【阿里巴巴】m种颜色把圆分n份.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -37,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="【TCL多媒体】Json解析.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="【TCL多媒体】Json解析.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CompanyProgramming/【TCL多媒体】Json解析.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="241">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="?【今日头条】移动一个元素使两个数组均值变大.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -423,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521959583013</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="【TCL多媒体】Json解析">
+      <created>1521959615707</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1521959615707</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -489,7 +505,8 @@
     <MESSAGE value="【美团】字符串距离（？？？）" />
     <MESSAGE value="【今日头条】在数组中找到差值为k的数字对去重后的个数.py" />
     <MESSAGE value="?【美团】字符串距离" />
-    <option name="LAST_COMMIT_MESSAGE" value="?【美团】字符串距离" />
+    <MESSAGE value="【TCL多媒体】Json解析" />
+    <option name="LAST_COMMIT_MESSAGE" value="【TCL多媒体】Json解析" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -749,14 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【今日头条】打印666.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -777,8 +786,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CompanyProgramming/【TCL多媒体】Json解析.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="241">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
