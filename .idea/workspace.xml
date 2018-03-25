@@ -7,7 +7,6 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【TCL多媒体】Json解析.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【阿里巴巴】m种颜色把圆分n份.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py" afterPath="$PROJECT_DIR$/CompanyProgramming/?【美团】字符串距离.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="?【美团】字符串距离.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="?【美团】字符串距离.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【美团】字符串距离.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="【TCL多媒体】Json解析.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CompanyProgramming/【TCL多媒体】Json解析.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -407,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521897171798</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="?【美团】字符串距离">
+      <created>1521959583013</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521959583013</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -472,7 +488,8 @@
     <MESSAGE value="【美团】数字字符" />
     <MESSAGE value="【美团】字符串距离（？？？）" />
     <MESSAGE value="【今日头条】在数组中找到差值为k的数字对去重后的个数.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="【今日头条】在数组中找到差值为k的数字对去重后的个数.py" />
+    <MESSAGE value="?【美团】字符串距离" />
+    <option name="LAST_COMMIT_MESSAGE" value="?【美团】字符串距离" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -708,14 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【TCL多媒体】Json解析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1306">
-          <caret line="80" column="22" lean-forward="true" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CompanyProgramming/【阿里巴巴】m种颜色把圆分n份.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -760,8 +769,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【美团】字符串距离.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【TCL多媒体】Json解析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
