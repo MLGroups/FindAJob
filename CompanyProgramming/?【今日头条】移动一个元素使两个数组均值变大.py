@@ -3,6 +3,10 @@
 # @Author  : 石头人m
 # @File    : ?【今日头条】移动一个元素使两个数组均值变大.py
 
+'''
+两个数组，移动一个元素到另一个中，使得两个数组的均值都变大。
+有多少种方法。
+'''
 
 import sys
 
@@ -37,13 +41,13 @@ print(v_min_2)
 count = 0
 if len(v_min_2) < len(values2):
     for i in v_min_2:
-        print(avg_1,i)
+        print(avg_1, i)
         if i > avg_1 and i not in values1:
             count += 1
 
 if len(v_min_1) < len(values1):
     for i in v_min_1:
-        print(avg_2,i)
+        print(avg_2, i)
         if i > avg_2 and i not in values2:
             count += 1
 print(count)
