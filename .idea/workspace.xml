@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7f55b0e2-efc4-457e-b2ce-2fd38b697c1c" name="Default" comment="【今日头条】在数组中找到差值为k的数字对去重后的个数.py">
       <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/?【今日头条】打印666.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CompanyProgramming/【阿里巴巴】m种颜色把圆分n份.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wy.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py" afterPath="$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,28 +14,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FindAJob$TenMinutesToPandas.coverage" NAME="TenMinutesToPandas Coverage Results" MODIFIED="1522403416128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProgrammingLanguage" />
     <SUITE FILE_PATH="coverage/FindAJob$N.coverage" NAME="【斐波那契】斐波那契数列第N项 Coverage Results" MODIFIED="1520336432119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProgrammingExercises" />
     <SUITE FILE_PATH="coverage/FindAJob$mytest04.coverage" NAME="mytest04 Coverage Results" MODIFIED="1521958149496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FindAJob$xiecheng.coverage" NAME="xiecheng Coverage Results" MODIFIED="1522326447951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FindAJob$mytest2.coverage" NAME="mytest2 Coverage Results" MODIFIED="1521895928460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FindAJob$s360.coverage" NAME="s360 Coverage Results" MODIFIED="1522501326945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FindAJob$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1521893489488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FindAJob$wy.coverage" NAME="wy Coverage Results" MODIFIED="1522157239924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FindAJob$.coverage" NAME="【京东】生日礼物 Coverage Results" MODIFIED="1521612360705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CompanyProgramming" />
     <SUITE FILE_PATH="coverage/FindAJob$_python.coverage" NAME="排序实现-python Coverage Results" MODIFIED="1520332633501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure" />
     <SUITE FILE_PATH="coverage/FindAJob$mytest1.coverage" NAME="mytest1 Coverage Results" MODIFIED="1521895847952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CompanyProgramming" />
     <SUITE FILE_PATH="coverage/FindAJob$jrtt.coverage" NAME="jrtt Coverage Results" MODIFIED="1521889890357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="?【今日头条】移动一个元素使两个数组均值变大.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,7 +73,6 @@
         <option value="$PROJECT_DIR$/ProgrammingExercises/【数组】差值最大最小对数.py" />
         <option value="$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py" />
         <option value="$PROJECT_DIR$/CompanyProgramming/【美团】字符串距离.py" />
-        <option value="$PROJECT_DIR$/CompanyProgramming/【阿里巴巴】m种颜色把圆分n份.py" />
         <option value="$PROJECT_DIR$/jrtt.py" />
         <option value="$PROJECT_DIR$/mytest2.py" />
         <option value="$PROJECT_DIR$/CompanyProgramming/mytest1.py" />
@@ -95,6 +86,14 @@
         <option value="$PROJECT_DIR$/mytest.py" />
         <option value="$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py" />
         <option value="$PROJECT_DIR$/CompanyProgramming/?【今日头条】打印666.py" />
+        <option value="$PROJECT_DIR$/xiecheng.py" />
+        <option value="$PROJECT_DIR$/ProgrammingLanguage/TenMinutesToPandas.py" />
+        <option value="$PROJECT_DIR$/CompanyProgramming/【360】画板.py" />
+        <option value="$PROJECT_DIR$/s58.py" />
+        <option value="$PROJECT_DIR$/meitu.py" />
+        <option value="$PROJECT_DIR$/CompanyProgramming/【阿里巴巴】m种颜色把圆分n份.py" />
+        <option value="$PROJECT_DIR$/wy.py" />
+        <option value="$PROJECT_DIR$/s360.py" />
       </list>
     </option>
   </component>
@@ -105,10 +104,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
+    <option name="x" value="1431" />
     <option name="y" value="-4" />
-    <option name="width" value="1301" />
-    <option name="height" value="772" />
+    <option name="width" value="1215" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -142,8 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,15 +148,12 @@
               <item name="FindAJob" type="b2602c69:ProjectViewProjectNode" />
               <item name="FindAJob" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FindAJob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FindAJob" type="462c0819:PsiDirectoryNode" />
-              <item name="CompanyProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mytest04">
+  <component name="RunManager" selected="Python.s360">
     <configuration name="【斐波那契】斐波那契数列第N项" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,58 +199,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="【京东】生日礼物" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TenMinutesToPandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CompanyProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingLanguage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FindAJob" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CompanyProgramming/【京东】生日礼物.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="jrtt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FindAJob" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jrtt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="mytest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FindAJob" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mytest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingLanguage/TenMinutesToPandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,7 +256,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mytest2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s360" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -313,26 +269,64 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FindAJob" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mytest2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s360.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="wy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FindAJob" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="xiecheng" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FindAJob" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xiecheng.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.【斐波那契】斐波那契数列第N项" />
-      <item index="1" class="java.lang.String" itemvalue="Python.mytest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.jrtt" />
-      <item index="3" class="java.lang.String" itemvalue="Python.mytest2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.mytest04" />
+      <item index="0" class="java.lang.String" itemvalue="Python.mytest04" />
+      <item index="1" class="java.lang.String" itemvalue="Python.wy" />
+      <item index="2" class="java.lang.String" itemvalue="Python.xiecheng" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TenMinutesToPandas" />
+      <item index="4" class="java.lang.String" itemvalue="Python.s360" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.mytest04" />
-        <item index="1" class="java.lang.String" itemvalue="Python.mytest2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mytest" />
-        <item index="3" class="java.lang.String" itemvalue="Python.jrtt" />
-        <item index="4" class="java.lang.String" itemvalue="Python.【斐波那契】斐波那契数列第N项" />
+        <item index="0" class="java.lang.String" itemvalue="Python.s360" />
+        <item index="1" class="java.lang.String" itemvalue="Python.TenMinutesToPandas" />
+        <item index="2" class="java.lang.String" itemvalue="Python.xiecheng" />
+        <item index="3" class="java.lang.String" itemvalue="Python.wy" />
+        <item index="4" class="java.lang.String" itemvalue="Python.mytest04" />
       </list>
     </recent_temporary>
   </component>
@@ -427,32 +421,59 @@
       <option name="project" value="LOCAL" />
       <updated>1521959637357</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="?【今日头条】移动一个元素使两个数组均值变大">
+      <created>1521959936490</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1521959936490</updated>
+    </task>
+    <task id="LOCAL-00013" summary="TenMinutesToPandas">
+      <created>1522403483791</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1522403483791</updated>
+    </task>
+    <task id="LOCAL-00014" summary="【360】画板">
+      <created>1522501521095</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1522501521095</updated>
+    </task>
+    <task id="LOCAL-00015" summary="【阿里巴巴】m种颜色把圆分n份">
+      <created>1522931419751</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1522931419751</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
+    <frame x="1431" y="-4" width="1217" height="1036" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.50292826" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30155212" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" x="0" y="260" width="1366" height="208" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.498452" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" x="0" y="260" width="1366" height="208" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27799842" sideWeight="0.49380806" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26939473" sideWeight="0.49380806" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6290707" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991131" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24384432" sideWeight="0.50619197" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3978328" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -495,18 +516,58 @@
     <MESSAGE value="?【美团】字符串距离" />
     <MESSAGE value="【TCL多媒体】Json解析" />
     <MESSAGE value="?【今日头条】移动一个元素使两个数组均值变大" />
-    <option name="LAST_COMMIT_MESSAGE" value="?【今日头条】移动一个元素使两个数组均值变大" />
+    <MESSAGE value="TenMinutesToPandas" />
+    <MESSAGE value="【360】画板" />
+    <MESSAGE value="【阿里巴巴】m种颜色把圆分n份" />
+    <option name="LAST_COMMIT_MESSAGE" value="【阿里巴巴】m种颜色把圆分n份" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序实现-python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2358">
+          <caret line="131" column="21" lean-forward="false" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】各排序对比.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiecheng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序实现-python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】各排序对比.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="28" lean-forward="true" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CompanyProgramming/【今日头条】在数组中找到差值为k的数字对去重后的个数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -514,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,11 +594,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/ProgrammingExercises/test.py" />
     <entry file="file://$PROJECT_DIR$/ProgrammingExercises/【位运算】二进制中1的个数.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -631,10 +689,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingLanguage/python.md">
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【京东】买糖果.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mytest04.py" />
+    <entry file="file://$PROJECT_DIR$/mytest1.py" />
+    <entry file="file://$PROJECT_DIR$/mytest2.py" />
+    <entry file="file://$PROJECT_DIR$/jrtt.py" />
+    <entry file="file://$PROJECT_DIR$/ProgrammingExercises/【二叉树】重建二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【今日头条】在数组中找到差值为k的数字对去重后的个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-674">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【TCL多媒体】Json解析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingExercises/【**】小赛的升级之路.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序算法总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
+          <first_editor relative-caret-position="-216">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor>
@@ -643,14 +747,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【京东】买糖果.py">
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序实现-python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="816">
+          <caret line="131" column="21" lean-forward="false" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序算法总结.md">
+    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】各排序对比.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingLanguage/TenMinutesToPandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【360】画板.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meitu.py" />
+    <entry file="file://$PROJECT_DIR$/ProgrammingLanguage/python.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -663,78 +787,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】各排序对比.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/【排序】排序实现-python.py">
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【美团】字符串距离.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mytest04.py">
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mytest1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mytest2.py">
+    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【阿里巴巴】m种颜色把圆分n份.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jrtt.py">
+    <entry file="file://$PROJECT_DIR$/wy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingExercises/【二叉树】重建二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【今日头条】在数组中找到差值为k的数字对去重后的个数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingExercises/【**】小赛的升级之路.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【美团】数字字符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-674">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="234">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -747,44 +825,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s360.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiecheng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【今日头条】打印666.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#133#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【阿里巴巴】m种颜色把圆分n份.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/【TCL多媒体】Json解析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【美团】字符串距离.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompanyProgramming/?【今日头条】移动一个元素使两个数组均值变大.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="18">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
